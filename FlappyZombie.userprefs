@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5C509CDD-23A2-919A-B8BA-2922D48B132D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraRotation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Movement.cs" Line="26" Column="10" />
+      <File FileName="Assets/zombie-rush-Assets/3D/zombie/models/animation list.txt" Line="22" Column="21" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="48" Column="26" />
+      <File FileName="Assets/Scripts/Rock.cs" Line="5" Column="34" />
+      <File FileName="Assets/Scripts/Player.cs" Line="54" Column="23" />
+      <File FileName="Assets/CameraRotation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlappyZombie PreferredExecutionTarget="Unity.Editor" />
+</Properties>
